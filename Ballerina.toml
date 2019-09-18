@@ -1,0 +1,12 @@
+[project]
+org-name= "laf"
+version= "0.1.0"
+
+[dependencies]
+
+[platform]
+target = "java8"
+
+    [[platform.libraries]]
+    path = "./lib/java/build/libs/libzip.jar"
+    modules = ["zip"]
