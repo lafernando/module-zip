@@ -1,6 +1,10 @@
 [project]
 org-name= "laf"
-version= "0.1.0"
+version= "0.1.1"
+authors = ["lafernando"]
+repository = "https://github.com/lafernando/module-zip"
+keywords = ["zip", "utilities"]
+license = ["Apache-2.0"]
 
 [dependencies]
 
